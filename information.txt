@@ -1,1 +1,1 @@
-This is a test of git and VSC.blah blah blah. jfadiofajf iefhfieh
+This is a test of git and VSC.blah blah blah. jfadiofajf iefhfieh. Now I am adding text in git! Woohoo!
